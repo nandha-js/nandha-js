@@ -2,39 +2,39 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Clean UI Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Full+Stack+Developer;MERN+Stack+Specialist;Crafting+Scalable+Web+Apps;Open+Source+Contributor&center=true&width=800&height=45&font=Fira%20Code&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Full+Stack+Developer;MERN+Stack+Specialist;Crafting+Scalable+Web+Apps;Open+Source+Contributor&center=true&width=800&height=45&font=Fira+Code&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔥 About Me
 
-- 🎯 I specialize in **MERN Stack** apps with clean UI & powerful backend.
-- 🏗️ Currently working on **real estate web app** with location & cloud integrations.
-- 🚀 Passionate about **performance**, **UX**, and **open-source** contributions.
-- 💬 Ask me about anything related to **React**, **Node**, or **API design**.
+- 🎯 Specializing in **MERN Stack** with a focus on scalability, performance & UI/UX.
+- 🏗️ Building a powerful **real estate platform** with cloud media & geolocation.
+- 🚀 Always exploring **open source**, clean architecture, and component-driven design.
+- 💬 Ask me about anything related to **React**, **Node.js**, or full-stack workflows.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+#### 💻 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### 🛠️ Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)  
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+#### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -53,37 +53,43 @@
 
 ### 🚀 Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🏡 [Real Estate Website](https://github.com/nandha-js/real-estate-frontend) | MERN, Tailwind, Cloudinary, JWT | Role-based platform with geolocation and secure image uploads. |
-| 🔐 Password Reset Flow | Node.js, Express, JWT, Nodemailer | Secure token-based reset for production-ready apps. |
-| 📝 Notes App | React, LocalStorage | CRUD app to manage notes locally with live updates. |
-| 💰 Expense Tracker | React, Chart.js | Track daily expenses with pie charts and filters. |
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🏡 [Real Estate Website](https://github.com/nandha-js/real-estate-frontend) | MERN, Tailwind, Cloudinary, JWT | Role-based property listing app with secure media & geolocation. |
+| 🔐 Password Reset Flow | Node.js, Express, JWT, Nodemailer | Secure, production-ready email-based reset flow. |
+| 📝 Notes App | React, LocalStorage | Fast, offline-capable notes with full CRUD support. |
+| 💰 Expense Tracker | React, Chart.js | Visual tracker for personal expenses with graphs & filters. |
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:nandhatpk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nandha-js"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nandha-js"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nandha-js"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/nandha-js"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧠 Fun Facts
 
-- 🧩 I love solving real-world problems with code.
-- 🎨 I believe design + logic = powerful UX.
-- ⏳ Always learning... currently diving into **Next.js** & **TypeScript**!
+- 🧩 I love breaking down real-world apps into clean, reusable logic.
+- 🎨 I combine developer thinking with designer instincts.
+- ⏳ Currently mastering **Next.js**, **TypeScript**, and **web performance**.
 
 ---
 
-### 📌 Quote
+### 📌 Developer Quote
 
-> _“Programs must be written for people to read, and only incidentally for machines to execute.”_ – Harold Abelson
+> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
+> – Harold Abelson
 
 ---
 
+### 👁‍🗨 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandha-js&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
