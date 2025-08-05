@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandha Kumar</h1>
+<h1 align="center">Hi 👋, I'm NandhaKumar</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Clean UI Lover</h3>
 
 <p align="center">
