@@ -10,9 +10,9 @@
 ### 🔥 About Me
 
 - 🎯 Specializing in **MERN Stack** with a focus on scalability, performance & UI/UX.
-- 🏗️ Building a powerful **real estate platform** with cloud media & geolocation.
+- 🏗️ Building a powerful **real estate platform**.
 - 🚀 Always exploring **open source**, clean architecture, and component-driven design.
-- 💬 Ask me about anything related to **React**, **Node.js**, or full-stack workflows.
+- 💬 Ask me about anything related to full-stack workflows.
 
 ---
 
@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
@@ -63,7 +62,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🏡 [Real Estate Website](https://github.com/nandha-js/real-estate-frontend) | MERN, Tailwind, Cloudinary, JWT | Role-based property listing app with secure media & geolocation. |
+| 🏡 [Real Estate Website](https://github.com/nandha-js/real-estate-frontend) | MERN, Tailwind, JWT | Role-based property listing app with secure media & geolocation. |
 | 🔐 Password Reset Flow | Node.js, Express, JWT, Nodemailer | Secure, production-ready email-based reset flow. |
 | 📝 Notes App | React, LocalStorage | Fast, offline-capable notes with full CRUD support. |
 | 💰 Expense Tracker | React, Chart.js | Visual tracker for personal expenses with graphs & filters. |
