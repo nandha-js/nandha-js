@@ -84,7 +84,6 @@
 
 - 🧩 I love breaking down real-world apps into clean, reusable logic.
 - 🎨 I combine developer thinking with designer instincts.
-- ⏳ Currently mastering **Next.js**, **TypeScript**, and **web performance**.
 
 ---
 
