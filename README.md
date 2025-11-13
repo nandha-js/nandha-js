@@ -60,11 +60,13 @@
 
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nandha-js&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandha-js&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nandha-js&show_icons=true&theme=radical&hide_border=true" 
+    alt="Nandha's GitHub Stats" 
+    height="180"
+  />
 </p>
+
 
 <p align="center">
   <!-- Contribution Streak -->
