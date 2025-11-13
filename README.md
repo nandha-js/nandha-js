@@ -63,9 +63,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandha-js&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
-
 <p align="center">
-  <!-- Contribution Streak (Fixed domain) -->
+  <!-- Contribution Streak (Fixed & Verified) -->
   <img src="https://streak-stats.demolab.com?user=nandha-js&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=F8D847&currStreakLabel=38BDF8" height="180" />
 </p>
 
