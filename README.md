@@ -59,12 +59,8 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Overall Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nandha-js&show_icons=true&theme=radical&hide_border=true" 
-    alt="Nandha's GitHub Stats" 
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandha-js&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandha-js&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 
