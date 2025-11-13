@@ -65,8 +65,8 @@
 
 
 <p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandha-js&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" height="180" />
+  <!-- Contribution Streak (Fixed domain) -->
+  <img src="https://streak-stats.demolab.com?user=nandha-js&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=F8D847&currStreakLabel=38BDF8" height="180" />
 </p>
 
 <p align="center">
