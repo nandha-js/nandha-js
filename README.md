@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Clean UI Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Full+Stack+Developer;MERN+Stack+Specialist;Crafting+Scalable+Web+Apps;Open+Source+Contributor&center=true&width=800&height=45&font=Fira+Code&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;MERN+Stack+Specialist;Crafting+Scalable+Web+Apps;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🎯 Specializing in **MERN Stack** with a focus on scalability, performance & UI/UX.
 - 🏗️ Building a powerful **real estate platform**.
 - 🚀 Always exploring **open source**, clean architecture, and component-driven design.
-- 💬 Ask me about anything related to full-stack workflows.
+- 💬 Ask me about anything related to the **MERN stack, clean architecture, or deployment.**
 
 ---
 
@@ -33,7 +33,18 @@
 
 ---
 
-### 🛠️ Tools & Platforms
+### ⚙️ Backend Tools & Deployment
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
+
+---
+
+### 🧰 Tools & Platforms
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -48,12 +59,16 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandha-js&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandha-js&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nandha-js&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandha-js&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandha-js&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandha-js&theme=radical" />
 </p>
 
 ---
@@ -73,8 +88,16 @@
 
 <p align="center">
   <a href="mailto:nandhakumar20021231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nandhakumar-p-2441b2329/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nandhakumar-p-2441b2329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://golden-sawine-562c48.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 💖 Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/nandhajs"><img src="https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge" /></a>
 </p>
 
 ---
